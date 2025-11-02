@@ -1,0 +1,26 @@
+Comuna,Region,Poblacion,Ingreso_promedio,Temperatura_promedio,Precipitacion_mm,Consumo_m3
+Arica,Arica y Parinacota,250000,650000,22.5,0,20.6
+Iquique,Tarapacá,240000,670000,21.8,2,19.72
+Antofagasta,Antofagasta,360000,900000,19.5,5,21.12
+Copiapó,Atacama,200000,780000,20.3,20,21.8
+La Serena,Coquimbo,300000,800000,16.5,85,18.58
+Valparaíso,Valparaíso,350000,850000,17.0,120,18.95
+Santiago,Metropolitana,5600000,950000,17.5,280,21.62
+Maipú,Metropolitana,520000,800000,18.0,270,20.05
+Puente Alto,Metropolitana,650000,750000,17.8,300,18.23
+Rancagua,O’Higgins,250000,700000,18.2,400,19.21
+Curicó,Maule,150000,680000,17.0,500,17.44
+Talca,Maule,200000,690000,16.8,520,17.41
+Chillán,Ñuble,180000,670000,16.5,700,17.89
+Concepción,Biobío,320000,800000,15.2,1100,15.16
+Los Ángeles,Biobío,200000,700000,15.5,1000,15.08
+Temuco,La Araucanía,280000,650000,14.0,1200,15.58
+Valdivia,Los Ríos,160000,730000,13.5,1600,14.88
+Osorno,Los Lagos,160000,720000,12.8,1700,16.12
+Puerto Montt,Los Lagos,250000,750000,12.5,1900,14.51
+Coyhaique,Aysén,60000,820000,10.8,2300,13.35
+Punta Arenas,Magallanes,130000,900000,7.5,500,18.01
+San Bernardo,Metropolitana,300000,780000,17.9,290,18.71
+Peñalolén,Metropolitana,240000,880000,17.6,310,19.45
+Quilpué,Valparaíso,200000,770000,16.9,150,17.06
+La Florida,Metropolitana,380000,870000,17.7,260,18.75
